@@ -7,7 +7,7 @@ DevSieve is a platform for evaluating skills of candidates for the position of w
  
 ## Main use case:
 
-link to image
+(https://github.com/DevSieve/general-documentation/blob/master/main%20use%20case.png)
 
 ## Back end side will contain three main services:
 
