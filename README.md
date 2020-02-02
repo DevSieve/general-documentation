@@ -14,10 +14,9 @@ link to image
 ### 1. Recruitment Manager
 This service will be responsible for:
 - creating/deleting recruitments
-- gathering information about candidate and their exam result
-- creating exam for candidate based on input parameters such as skill level, technology
+- creating/deleting exam for candidate based on input parameters such as skill level, technology
 - adding/deleting questions and tasks that will be used to generate exam
-- 
+- evaluating finished exams
 
 ### 2. Mail Service
 It will be used to send messages to candidate such as: 
