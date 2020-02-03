@@ -1,8 +1,7 @@
 
 # System Requirements
 
-HR workers and recruiters can create new recruitments, delete existing recruitments.
-Recruitment structure:
+HR workers and recruiters can create new recruitments, delete existing recruitments.  Recruitment structure:
 - candidate's first and last name
 - candidate's gender
 - candidate's email
