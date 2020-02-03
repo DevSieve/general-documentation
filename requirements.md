@@ -56,7 +56,7 @@ Exam structure:
 - max possible score for open questions
 - time limit
 - time left
-- status (not started, started, finished, evaluated)
+- status (not started, started, finished, evaluated)</br></br>
 
 After clicking the link in the invitation email, candidate is moved to the exam execution screen.</br></br>
 
