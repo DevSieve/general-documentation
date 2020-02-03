@@ -2,7 +2,6 @@
 # System Requirements
 
 HR workers and recruiters can create new recruitments, delete existing recruitments.
-
 Recruitment structure:
 - candidate's first and last name
 - candidate's gender
@@ -37,12 +36,11 @@ The generator is going to choos questions based on candidate's skill level and p
 Recruiters can view created exams independently from current exam's status.
 Recruiters can evaluate open questions in finished exams.
 Recruiters can decide about recruitment acceptance/rejection
-
 Exam structure:
 - open questions
 - closed questions
 - max possible score for closed questions
 - max possible score for open questions
 - time limit
--time left
+- time left
 - status (not started, started, finished, evaluated)
