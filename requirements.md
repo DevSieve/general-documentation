@@ -5,7 +5,7 @@ HR workers and recruiters can create new recruitments, delete existing recruitme
 
 There should be an option to send invitation email to candidate ONLY if an exam has been generated.</br></br>
 
-There should be an option to send an email to candidate about recruitment result (acceptance or rejection) ONLY if exam sad been finished.</br></br>
+There should be an option to send an email to candidate about recruitment result (acceptance or rejection) ONLY if exam had been finished.</br>
 
 Recruitment structure:
 - candidate's first and last name
@@ -16,7 +16,7 @@ Recruitment structure:
 - exam status (not generated, generated, started, finished, evaluated, expired)
 - information on whether the candidate has received an invitation email</br></br>
 
-HR workers and recruiters can upload/download/delete candidate's CV.</br></br>
+HR workers and recruiters can upload/download/delete candidate's CV.</br>
 
 Cv structure:
 - file name
